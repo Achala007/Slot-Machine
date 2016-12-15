@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 import javax.swing.ImageIcon;
 
+//Symbol class
 public class Symbol implements ISymbol{
 	
 	SlotMachineGUI GUI = new SlotMachineGUI();
