@@ -61,7 +61,7 @@ public class Reel extends JFrame {
 	int countCoin = 10;// stating number of add coins in the begin
 	int betCoin = 1;// starting number of bet coins in the begining
 	int betMax;
-	int countNumWinn = 0;// number of winn times in the game
+	int countNumWinn = 0;// number of winns times in the game
 	int countNumloss = 0;// number of loss time in the game
 	int countTimes = 0;// number of time game play
 
