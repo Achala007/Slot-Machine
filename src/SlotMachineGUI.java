@@ -118,22 +118,7 @@ public class SlotMachineGUI extends JPanel {
 		lbl3.setVisible(true);
 
 		lbl4 = new JLabel();
-		lbl4.setBackground(new Color(255, 255, 0));
-		lbl4.setText("?");
-		pnllbls.add(lbl4);
-		lbl4.setVisible(true);
-
-		lbl5 = new JLabel();
-		lbl5.setBackground(new Color(255, 255, 255));
-		lbl5.setText("Available credits : ");
-		pnllbls.add(lbl5);
-		lbl5.setVisible(true);
-
-		lbl6 = new JLabel();
-		lbl6.setBackground(new Color(255, 255, 255));
-		lbl6.setText("?");
-		pnllbls.add(lbl6);
-		lbl6.setVisible(true);
+		lbl4.setBa
 
 	}
 
